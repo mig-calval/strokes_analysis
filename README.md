@@ -11,5 +11,5 @@ The jupyter notebook [eda.ipynb](dev/eda.ipynb) in which the report was made is 
 
 ## Results
 
-A [report](report/) is contained in the results folder, both in a [Word](report/strokes_analysis.docx) document as well as a [pdf](report/strokes_analysis.pdf) one. 
+A report is contained in the [report](report/) folder, both in a [Word](report/strokes_analysis.docx) document as well as a [pdf](report/strokes_analysis.pdf) one. 
 A presentation is contained in this same folder both in [PowerPoint](report/strokes_analysis.pptx) and [Excel](report/strokes_analysis.xlsx).
