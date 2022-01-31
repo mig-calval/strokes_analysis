@@ -13,3 +13,7 @@ The jupyter notebook [eda.ipynb](dev/eda.ipynb) in which the report was made is 
 
 A report is contained in the [report](report/) folder, both in a [Word](report/strokes_analysis.docx) document as well as a [pdf](report/strokes_analysis.pdf) one. 
 A presentation is contained in this same folder both in [PowerPoint](report/strokes_analysis.pptx) and [Excel](report/strokes_analysis.xlsx).
+
+## Details
+
+This project was made mainly as part of a Visualization and Narrative crash course. It's main purpose was to focus on the esthetics and storytelling of the report and presentation rather than optimizing results. For this reason, the values acquired for the FNR and FPR could be considerably improved through different courses of action, also, more exploration on interactions could have been performed, amongst other things.
